@@ -33,7 +33,7 @@ class AVImageDetaction: UIViewController, ARSCNViewDelegate,ARSKViewDelegate {
         
         // Create a session configuration
         let configuration = ARImageTrackingConfiguration()
-        let dumbleDore = ARReferenceImage(UIImage(named: "DD")!.cgImage!,
+        let dumbleDore = ARReferenceImage(UIImage(named: "johan")!.cgImage!,
                                        orientation: CGImagePropertyOrientation.up,
                                        physicalWidth: 0.90)
        
