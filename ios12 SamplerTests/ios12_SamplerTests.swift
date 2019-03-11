@@ -1,10 +1,12 @@
 //
-//  ios12_SamplerTests.swift
-//  ios12 SamplerTests
+//  ARKit WorkshopUITests.swift
+//  ARKit Workshop
 //
-//  Created by Testing on 13/06/18.
-//  Copyright © 2018 Testing. All rights reserved.
+//  Created by Niels on 11/03/19.
+//  Copyright © 2019 Arkit Workshop. All rights reserved.
 //
+
+
 
 import XCTest
 @testable import ios12_Sampler

@@ -1,10 +1,11 @@
 //
 //  iOSDevCenters+GIF.swift
-//  GIF-Swift
+//  ARKit Workshop
 //
-//  Created by iOSDevCenters on 11/12/15.
-//  Copyright © 2016 iOSDevCenters. All rights reserved.
+//  Created by Niels on 11/03/19.
+//  Copyright © 2019 Arkit Workshop. All rights reserved.
 //
+
 
 import UIKit
 import ImageIO

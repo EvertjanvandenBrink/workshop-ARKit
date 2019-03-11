@@ -107,12 +107,12 @@
 			children = (
 				4969EA8C20D109FC00F8AE9E /* AppDelegate.swift */,
 				8127E0E220D7E5B500D8CD7F /* AVImageDetaction.swift */,
-				8127E0E420D7E5F000D8CD7F /* Helper */,
 				4969EA9A20D109FD00F8AE9E /* Info.plist */,
 				4969EA9220D109FC00F8AE9E /* Main.storyboard */,
 				4969EA9720D109FD00F8AE9E /* LaunchScreen.storyboard */,
 				4969EA9520D109FD00F8AE9E /* Assets.xcassets */,
 				4969EA8E20D109FC00F8AE9E /* art.scnassets */,
+				8127E0E420D7E5F000D8CD7F /* Helper */,
 			);
 			path = "ios12 Sampler";
 			sourceTree = "<group>";
