@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		167AB6FC2236BFB500ACE3EB /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 167AB6FB2236BFB500ACE3EB /* Default-568h@2x.png */; };
 		4969EA8D20D109FC00F8AE9E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4969EA8C20D109FC00F8AE9E /* AppDelegate.swift */; };
 		4969EA9420D109FC00F8AE9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4969EA9220D109FC00F8AE9E /* Main.storyboard */; };
 		4969EA9620D109FD00F8AE9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4969EA9520D109FD00F8AE9E /* Assets.xcassets */; };
@@ -35,7 +34,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		167AB6FB2236BFB500ACE3EB /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		4969EA8920D109FC00F8AE9E /* ARkit workshop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ARkit workshop.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4969EA8C20D109FC00F8AE9E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4969EA9320D109FC00F8AE9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -77,7 +75,6 @@
 		4969EA8020D109FC00F8AE9E = {
 			isa = PBXGroup;
 			children = (
-				167AB6FB2236BFB500ACE3EB /* Default-568h@2x.png */,
 				4969EA8B20D109FC00F8AE9E /* ARkit workshop */,
 				4969EA8A20D109FC00F8AE9E /* Products */,
 			);
@@ -223,7 +220,6 @@
 				8127E0E820D7E6DC00D8CD7F /* giphy.gif in Resources */,
 				4969EA9920D109FD00F8AE9E /* LaunchScreen.storyboard in Resources */,
 				4969EA9620D109FD00F8AE9E /* Assets.xcassets in Resources */,
-				167AB6FC2236BFB500ACE3EB /* Default-568h@2x.png in Resources */,
 				4969EA9420D109FC00F8AE9E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
